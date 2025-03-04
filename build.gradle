@@ -25,7 +25,7 @@ test {
 }
 
 javafx {
-    version = '21'  // JavaFX version
+    version = '23.0.1'  // JavaFX version
     modules = ['javafx.controls', 'javafx.fxml']
 }
 
